@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@maxmind/geoip2-node": "^3.5.0",
+    "http": "^0.0.1-security"
+  }
+
+}
